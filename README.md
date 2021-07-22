@@ -154,11 +154,6 @@
 </details>
 <!--END_SECTION:activity-->
 
-## Show your support
-
-Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]? ![](https://hit.yhype.me/github/profile?user_id=35486894)
-
-<!--
 
 ## Pinned
 
