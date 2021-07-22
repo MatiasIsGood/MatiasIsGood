@@ -1,6 +1,4 @@
-[![Banner][banner-img]][banner-link]
-
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
+<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=MatiasIsGood&style=flat-square"></h2>
 
 <p align="justify">I am a NodeJS developer with 11 years of coding experience.</p>
 
@@ -177,7 +175,6 @@ Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]? ![](https:
 [banner-img]: https://raw.githubusercontent.com/cheesits456/cheesits456/master/personal-banner.gif
 [banner-link]: https://social.cheesits456.dev
 
-[sponsor]: https://github.com/sponsors/cheesits456
 
 [website-img]: https://img.shields.io/badge/-Website-e722e7?style=for-the-badge
 [website-link]: https://cheesits456.dev
